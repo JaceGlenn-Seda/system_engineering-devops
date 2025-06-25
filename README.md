@@ -1,2 +1,3 @@
-# system_engineering-devops
-for shell scripting ( Week 2 )
+"first repository", "GitHub learning task"
+#MyFirstrepo
+This is my first learning step on editing a READmd file
