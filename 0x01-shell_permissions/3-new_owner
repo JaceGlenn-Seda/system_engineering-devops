@@ -1,2 +1,3 @@
 #!/bin/bash
 chown bettyhello
+ls -l hello | awk '{print $3}'
